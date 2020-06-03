@@ -1,4 +1,4 @@
-# neuropixel_navigator
+# Neuropixel Navigator
 Brain region detection using Neuropixels and Deep Learning
 
 # Project Summary
