@@ -1,5 +1,5 @@
 # Neuropixel Navigator
-Brain region detection using Neuropixels and Deep Learning
+Brain region detection using Neuropixels and Deep Learning.
 
 # Project Summary
 This project's goal was to be able to take a signal from a single site on a NeuroPixel probe and be able to accurately predict what region of the brain that it came from. This prediction would be done with a machine learning model. Three machine learning network architectures were tested for site classification. The code for all three models is available on this project as well as the code necessary for data pre-processing.
